@@ -9,4 +9,8 @@ class Dealer{
        System.out.println(threadLocal);
     }
 
+    public static String edit(){
+       System.out.println(89909080);
+    }
+
 }
